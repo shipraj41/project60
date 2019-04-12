@@ -1,0 +1,6 @@
+15:36:10.534 [main] DEBUG testcases.TC1 - initializing browser
+15:37:15.334 [main] INFO  testcases.TC1 - browser is successfully opened
+15:37:15.336 [main] DEBUG testcases.TC1 - url is getting opened
+15:37:19.780 [main] INFO  testcases.TC1 - url is successfully opened
+15:37:19.784 [main] DEBUG testcases.TC1 - driver is getting closed
+15:37:21.340 [main] INFO  testcases.TC1 - driver is successfully closed
